@@ -7,17 +7,12 @@ Soy un futuro ingeniero enfocado en el **desarrollo de software riguroso**. Mi f
 ---
 
 ### 🌐 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/nicol%C3%A1s-p%C3%A9rez-fern%C3%A1ndez-0996703b3/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)]
-(https://www.instagram.com/nicoprezz_/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)]
-(mailto:nipefe2006@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicol%C3%A1s-p%C3%A9rez-fern%C3%A1ndez-0996703b3/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/nicoprezz_/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nipefe2006@gmail.com)
 
 ---
 
 ### 🛠️ En qué estoy trabajando
-- 🎓 Cursando 2.º año en la **Universidad de Oviedp**, profundizando en algoritmos y estructuras de datos.
+- 🎓 Cursando 2.º año en la **Universidad de Oviedo**, profundizando en algoritmos y estructuras de datos.
 - 🤖 Explorando la integración controlada de la **IA** para optimizar tareas de desarrollo sin perder el rigor técnico.
 - 🔐 Interesado en la **Ciberseguridad** y la construcción de sistemas robustos y escalables.
 
@@ -27,8 +22,8 @@ Soy un futuro ingeniero enfocado en el **desarrollo de software riguroso**. Mi f
 - **Foco:** Software Craftsmanship, AI-Assisted Development (Supervised)
 
 ### 📊 Estadísticas de GitHub
-![Tus Estadísticas](https://github-readme-stats.vercel.app/api?username=nicoprezz&show_icons=true&theme=radical)
+![Estadísticas de Nicolás](https://github-readme-stats.vercel.app/api?username=nicoprezz&show_icons=true&theme=radical)
 
 ---
 
-> "La calidad del software no es una opción, es una responsabilidad técnica."
+> *"La calidad del software no es una opción, es una responsabilidad técnica."*
