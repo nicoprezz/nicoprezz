@@ -24,6 +24,9 @@ Soy un futuro ingeniero enfocado en el **desarrollo de software riguroso**. Mi f
 ### 📊 Estadísticas de GitHub
 ![Estadísticas de Nicolás](https://github-readme-stats.vercel.app/api?username=nicoprezz&show_icons=true&theme=radical)
 
+### 🐍 Mi actividad en código
+![snake gif](https://github.com/nicoprezz/nicoprezz/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 > *"La calidad del software no es una opción, es una responsabilidad técnica."*
