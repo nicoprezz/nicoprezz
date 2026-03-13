@@ -21,8 +21,6 @@ Soy un futuro ingeniero enfocado en el **desarrollo de software riguroso**. Mi f
 - **Entornos:** Cursor / VS Code, Git, Linux, Codex
 - **Foco:** Software Craftsmanship, AI-Assisted Development (Supervised)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicoprezz&layout=compact&theme=radical&hide_border=true)
-
 ### 📊 Estadísticas de GitHub
 ![Estadísticas de Nicolás](https://github-readme-stats.vercel.app/api?username=nicoprezz&show_icons=true&theme=radical)
 
