@@ -1,6 +1,6 @@
 # Hola, soy Nicolás Pérez 👋
 
-### Estudiante de Ingeniería del Software @ Universidad de Oviedo
+### Estudiante de Ingeniería del Software en la Universidad de Oviedo
 
 Soy un futuro ingeniero enfocado en el **desarrollo de software riguroso**. Mi filosofía de trabajo se aleja del "vibe coding": priorizo la comprensión profunda de la arquitectura, el código limpio y la supervisión técnica estricta, especialmente al integrar herramientas de IA en el flujo de desarrollo.
 
