@@ -12,7 +12,7 @@ Soy un futuro ingeniero enfocado en el **desarrollo de software riguroso**. Mi f
 ---
 
 ### 🛠️ En qué estoy trabajando
-- 🎓 Cursando 2.º año en la **Universidad de Oviedo**, profundizando en algoritmos y estructuras de datos.
+- 🎓 Cursando 2.º año en la **Universidad de Oviedo**, profundizando en algoritmos, estructuras de datos y paradigma funcional.
 - 🤖 Explorando la integración controlada de la **IA** para optimizar tareas de desarrollo sin perder el rigor técnico.
 - 🔐 Interesado en la **Ciberseguridad** y la construcción de sistemas robustos y escalables.
 
