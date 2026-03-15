@@ -49,7 +49,6 @@ Soy un futuro ingeniero enfocado en el **desarrollo de software riguroso**. Mi f
 ### 📊 Estadísticas y Actividad
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nicoprezz&show_icons=true&theme=radical" height="170" alt="stats graph"  />
-  [<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicoprezz&layout=compact&langs_count=5&theme=radical&locale=es" height="170" alt="languages graph"  />]
 </div>
 
 <div align="center">
