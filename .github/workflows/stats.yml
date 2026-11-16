@@ -1,0 +1,45 @@
+name: generate stats card
+
+on:
+  # Una vez al día (03:00 UTC)
+  schedule:
+    - cron: "0 3 * * *"
+
+  # Permite ejecutarlo manualmente en cualquier momento
+  workflow_dispatch:
+
+# Evita que dos ejecuciones escriban a la vez en la rama "stats"
+concurrency:
+  group: stats-card
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      # Genera las tarjetas en ./profile-summary-card-output/radical/
+      # El PAT (solo lectura) se usa únicamente para consultar la API de GitHub.
+      # Acción fijada por SHA (v0.13.0) para que un cambio en la etiqueta no ejecute código nuevo.
+      - name: generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@7022eb6bd48de38b092f54110a8ff8185f2ac4a1 # v0.13.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: radical
+          TIME_ZONE: Europe/Madrid
+          AUTO_PUSH: false
+
+      # Sube las tarjetas a la rama "stats" (separada de "output" para no pisar la serpiente).
+      # Para escribir usa el GITHUB_TOKEN integrado, no el PAT.
+      - name: push cards to the stats branch
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
+        with:
+          target_branch: stats
+          build_dir: profile-summary-card-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
