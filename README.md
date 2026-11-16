@@ -25,7 +25,7 @@ Soy un futuro ingeniero enfocado en el **desarrollo de software riguroso**. Mi f
 ---
 
 ### 🛠️ En qué estoy trabajando
-- 🎓 Cursando 3.er año en la **Universidad de Oviedo**, profundizando en algoritmos, estructuras de datos y paradigma funcional.
+- 🎓 Cursando 3.er año en la **Universidad de Oviedo**, profundizando en diseño de software de calidad, estructuras de datos y desarrollo real del proceso software.
 - 🌱 Desarrollando [**padel-booking-api**](https://github.com/nicoprezz/padel-booking-api), una API REST para la reserva de pistas de pádel con **Spring Boot**.
 - 🤖 Explorando la integración controlada de la **IA** para optimizar tareas de desarrollo sin perder el rigor técnico.
 - 🔐 Interesado en la **Ciberseguridad**, el diseño de **APIs REST con Spring Boot** y la construcción de sistemas robustos y escalables.
