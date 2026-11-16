@@ -17,9 +17,6 @@ Soy un futuro ingeniero enfocado en el **desarrollo de software riguroso**. Mi f
   <a href="mailto:nipefe2006@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="35" alt="gmail logo"  />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord logo"  />
-  </a>
 </div>
 
 ---
@@ -48,7 +45,7 @@ Soy un futuro ingeniero enfocado en el **desarrollo de software riguroso**. Mi f
 
 ### 📊 Estadísticas y Actividad
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicoprezz&show_icons=true&theme=radical" height="170" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/nicoprezz/nicoprezz/stats/radical/3-stats.svg" height="170" alt="stats graph"  />
 </div>
 
 <div align="center">
